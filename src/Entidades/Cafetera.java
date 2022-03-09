@@ -18,7 +18,7 @@ public class Cafetera {
     }
 
     public Cafetera(int cantdadActual) {
-        this.capacidadMax = 2500;
+        this.capacidadMax = 1500;
         this.cantidadActual = cantidadActual;
     }
 
